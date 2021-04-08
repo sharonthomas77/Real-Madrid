@@ -9,35 +9,35 @@
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-light" style="background:white" > 
-  <div class="container-fluid">
-  <img src="z.png" height="70" alt="" ><br>
-<a class="navbar-brand" href="index.html" style="font-size:larger; font-family:sans-serif; font-weight: 600;">  Home</a>
-<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span>
-</button>
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-    <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="men.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Strikers</a>
+    <div class="container-fluid">
+    <img src="z.png" height="70" alt="" ><br>
+  <a class="navbar-brand" href="index.html" style="font-size:larger; font-family:sans-serif; font-weight: 600;">  Home</a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+ <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="men.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Strikers</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="womens.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Mid Fielders</a>
+      </li>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
+      <a class="nav-link active" aria-current="page" href="kids.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Defenders</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="womens.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Mid Fielders</a>
-    </li>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="kids.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Defenders</a>
-  </li>
-  <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="offers.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Management</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="contact.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Contact</a>
-    </li>
-  </ul>
-</div>
+        <a class="nav-link active" aria-current="page" href="offers.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Management</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="contact.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Contact</a>
+      </li>
+    </ul>
+  </div>
 </div>
 </nav>
 

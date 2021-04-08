@@ -17,23 +17,23 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="men.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Strikers</a>
+        <a class="nav-link active" aria-current="page" href="men.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Strikers</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="womens.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Mid Fielders</a>
+        <a class="nav-link active" aria-current="page" href="womens.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Mid Fielders</a>
       </li>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="kids.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Defenders</a>
+      <a class="nav-link active" aria-current="page" href="kids.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Defenders</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="offers.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Management</a>
+        <a class="nav-link active" aria-current="page" href="offers.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Management</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="contact.html" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Contact</a>
+        <a class="nav-link active" aria-current="page" href="contact.php" style="font-size:larger; font-family:sans-serif;font-weight: 600;">Contact</a>
       </li>
     </ul>
   </div>
